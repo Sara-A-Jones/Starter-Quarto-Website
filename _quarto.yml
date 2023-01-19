@@ -105,17 +105,17 @@ format:
     theme: minty
     css: styles.css
     toc: true
-    comments:
-      giscus:
-        repo: Smule11/Starter-Quarto-Website
-        # repo-id: R_kgDOGZGr3w
-        category: Comments
-        # category-id: DIC_kwDOGZGr384B_-52
-        mapping: pathname
-        reactions-enabled: false
-        input-position: top
-        theme: light
-        language: en
+  #  comments:
+  #    giscus:
+  #.     repo: yourREPOOOOOO # Smule11/Starter-Quarto-Website
+  #      # repo-id: R_kgDOGZGr3w
+  #      category: Comments
+  #      # category-id: DIC_kwDOGZGr384B_-52
+  #      mapping: pathname
+  #      reactions-enabled: false
+  #      input-position: top
+  #      theme: light
+  #      language: en
 
 freeze: true
 
